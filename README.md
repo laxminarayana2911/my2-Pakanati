@@ -38,3 +38,35 @@ Here are some quotes by scientists.
 
 > "An expert is a person who has made all the mistakes that can be made in a very narrow field." - *Niels Bohr*
 
+****
+
+## Code Fencing
+
+****
+
+<object data="your.svg" type="image/svg+xml">
+  <img src="yourfallback.jpg" />
+</object>
+
+*****
+[use object tag then you get raster fallback for free*](https://stackoverflow.com/questions/4476526/do-i-use-img-object-or-embed-for-svg-files)
+
+****
+<svg viewBox="0 0 100 100">
+  <text>
+    <tspan class="line-1" textLength="100" x="0" y="1em" lengthAdjust="spacingAndGlyphs" lengthAdjust="spacing">
+      The Cat
+    </tspan>
+    <tspan class="line-2" textLength="100" x="0" dy="0.9em" lengthAdjust="spacingAndGlyphs">
+      in the
+    </tspan>
+    <tspan class="line-3" textLength="100" x="0" dy="0.9em" lengthAdjust="spacingAndGlyphs">
+      Hat
+    </tspan>
+  </text>
+</svg>
+
+*****
+
+[compress the shape of the characters as well for when the natural spacing is awkward.](https://css-tricks.com/snippets/svg/text-lock-up/)
+
