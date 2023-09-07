@@ -24,3 +24,17 @@
 | Hockey         | Body fitness and hands moments  | 2-3 hours    |
 | Football       | Full-body workout               | 5-8 hours    |
 | basketball     | Great for agility and fitnes    | 4-6 hours    |
+
+---
+## Inspirational Scientist Quotes
+
+Here are some quotes by scientists.
+
+> "Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action." - *Dr. APJ Abdul Kalam*
+
+> "Never memorize something that you can look up." - *Albert Einstein*
+
+> "The Universe is under no obligation to make sense to you." - *Neil deGrasse Tyson*
+
+> "An expert is a person who has made all the mistakes that can be made in a very narrow field." - *Niels Bohr*
+
