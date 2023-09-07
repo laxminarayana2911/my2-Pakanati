@@ -14,3 +14,5 @@
 * Biryani
 * pasta
 * Chicken curry
+
+[linkofMystats]([Title](MyStats.md))
