@@ -42,16 +42,16 @@ Here are some quotes by scientists.
 
 ## Code Fencing
 
-****
+```
 
 <object data="your.svg" type="image/svg+xml">
   <img src="yourfallback.jpg" />
 </object>
 
-*****
+```
 [use object tag then you get raster fallback for free*](https://stackoverflow.com/questions/4476526/do-i-use-img-object-or-embed-for-svg-files)
 
-****
+```
 <svg viewBox="0 0 100 100">
   <text>
     <tspan class="line-1" textLength="100" x="0" y="1em" lengthAdjust="spacingAndGlyphs" lengthAdjust="spacing">
@@ -66,7 +66,7 @@ Here are some quotes by scientists.
   </text>
 </svg>
 
-*****
+```
 
 [compress the shape of the characters as well for when the natural spacing is awkward.](https://css-tricks.com/snippets/svg/text-lock-up/)
 
