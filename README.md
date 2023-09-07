@@ -5,12 +5,12 @@
 
 ----
 
-##My favorite vacation spots are
-1. Goa
-2. Hyderabad
-5. Gokarna
+##activities in My favorite vacation spots are
+1. Beach Trekking and Camping
+2. Banana Boat Rides 
+5. Sri Mahabaleshwara 
 
-##Dishes found in fav Sport
+##Dishes found in vaccation spot
 * Biryani
 * pasta
 * Chicken curry
