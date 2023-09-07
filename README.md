@@ -16,3 +16,11 @@
 * Chicken curry
 
 [linkofMystats]([Title](MyStats.md))
+
+
+| Sport          | Reason                          | Weekly Hours |
+|----------------|---------------------------------|--------------|
+| Cricket        | Enhances flexibility and peace  | 4-7 hours    |
+| Hockey         | Body fitness and hands moments  | 2-3 hours    |
+| Football       | Full-body workout               | 5-8 hours    |
+| basketball     | Great for agility and fitnes    | 4-6 hours    |
